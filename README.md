@@ -1,4 +1,4 @@
-# Hello, World! I'm Abdullah Ahmad 👋 :eyeglasses:
+# Hello, World! I'm Mohammad Abdullah 👋 :eyeglasses:
 
 I'm a Machine Learning Engineer, but you might also call me an AI enthusiast, a code wizard, or a lifelong learner!
 
