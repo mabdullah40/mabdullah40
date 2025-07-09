@@ -1,70 +1,70 @@
-# Hello, World! I'm Mohammad Abdullah 👋 :
+# Hello, World! I'm Mohammad Abdullah 👋
 
-I'm a Machine Learning Engineer, but you might also call me an AI enthusiast, a code wizard, or a lifelong learner!
+I'm an AI Engineer & Data Scientist, but you might also call me a pattern seeker, a self-healing workflow builder, or a lifelong learner!
 
 ## 🚀 About Me
-I'm currently diving deep into the world of AI, working on an unmanned crop maintenance system. It's all about Machine Learning and Deep Learning here! 🔭
+I specialize in building AI agents for pattern discovery, automating data workflows, and delivering executive dashboards. I’m currently driving global growth through AI-driven insights and automation. 🔭
 
-I'm always on the lookout for challenging projects to collaborate on. So if you're looking for someone who loves a good challenge, you're in the right place!
+I'm always on the lookout for challenging projects to collaborate on. If you’re looking for someone who thrives on complex problems, you're in the right place!
+
 ### 💼 Experience
 
-- **AI Engineer | Lean Automation (Oct 2024 - Present)**
-   - Developed a smart assessment platform for industry digital transformation using Large Language Models (LLMs).
-   - Integrated RAG within the system to dynamically create and modify assessments for specific industry use cases.
-   - Enhanced efficiency by partitioning vector stores for corresponding models and implementing GraphRAG.
+- **AI Engineer | Open-Port (Feb 2025 – Present)**
+   - Built an AI agent to drive global expansion by uncovering hidden business patterns and automating anomaly detection.
+   - Created self-healing workflows that detect, log, and remediate recurring database issues automatically.
+   - Designed dynamic Power BI Premium and Looker Studio dashboards to deliver real-time KPIs and AI-driven insights for executive stakeholders.
 
-- **Junior Machine Learning Engineer | Neurog (Aug 2024 - Oct 2024)**
-   - Built chatbots using Langchain and Retrieval-Augmented Generation (RAG) to improve user support accuracy and resolution times.
-   - Designed and added chains to chatbot architectures, resulting in a 20% faster response time for customer inquiries.
-   - Optimized algorithms for improved accuracy, reducing errors by 15% and enhancing overall user satisfaction.
+- **Data Science Executive | Truck-It-In (Jul 2024 – Feb 2025)**
+   - Developed and deployed machine learning models to optimize logistics and supply chain efficiency.
+   - Analyzed large datasets to identify trends, forecast demand, and drive strategic decisions to enhance fleet management and operations.
+   - Collaborated with cross-functional teams to build predictive models and support business intelligence initiatives.
 
-- **Machine Learning Intern | Neurog (Jun 2024 - Aug 2024)**
-   - Conducted data preprocessing on OHLC data for trading bot development, boosting model reliability.
-   - Fine-tuned machine learning models, including ARIMA, GRU, and Prophet, to enhance real-time predictions in trading bot applications.
-   - Applied feature engineering to improve BTCUSDT price prediction accuracy by 15%, enhancing trading strategies.
-
+- **Intern | POF Software Reengineering (Jul 2023 – Aug 2023)**
+   - Identified database patterns and documented reengineered software as part of POF system upgrades.
 
 ## 🎩 Skills
-I'm still on my learning journey, but here's a sneak peek into my toolbox:
+
+Here’s a glimpse into my toolbox:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=nlp&logoColor=white)
-- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge&logo=opencv&logoColor=white)
-- ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ## 🛠️ Projects
+
 Here are some of the projects I've worked on:
 
-1. [Cryp-bot](https://github.com/iabahmad/Cryp-bot) - A cryptocurrency trading bot that automates trading strategies.
-
-2. [AI based crop maintenance UGV](https://github.com/Ali4real/AI-based-crop-maintenance-system) - A disease detection and spraying robot that's revolutionizing agriculture. 
-
-3. [Bringing Faraz Words to Life](https://github.com/iabahmad/poetry-generator.git) - A poetry generator that is still improving itself
-
-4. [Sentiment analysis on Roman text using LSTM](https://www.kaggle.com/code/iabahmad19/sentiment-analysis-lstm) - Leveraging the power of LSTM to understand the sentiment behind texts.
-
-5. [Dog breed classifier using transfer learning](https://github.com/iabahmad/pre-trained-image-classifier-to-identify-do-breeds) - A classifier that can identify dog breeds. Perfect for those "what breed is that cute dog?" moments!
-
-6. [Bike Sharing Demand with AutoGloun](https://graduation.udacity.com/confirm/e/b9f6292c-ee8f-11ed-8ddc-57f019dd3d3a) - A project associated with the Machine Learning Fundamentals Nanodegree at Udacity.
-
+1. [Predict Bike Sharing Demand with AutoGluon](https://github.com/mabdullah40/Predict-Bike-Sharing-Demand-with-AutoGloun) - Leveraging AutoGluon for time series demand forecasting.
+2. [Arabic Text Classification using MNIST Dataset](https://github.com/mabdullah40/Arabic-Text-Classification-using-MNIST-Dataset) - Classifying Arabic text with ML pipelines.
+3. [Dog Breed Classification (ImageNet)](https://github.com/mabdullah40/An-Ai-System-of-Dog-Breed-Classification-Using-Imagenet) - Identifying dog breeds with transfer learning.
+4. [Road Damage Detection](https://github.com/mabdullah40/An-Ai-Based-System-of-Road-Damage-Detection) - An AI system to detect road damages for automated reporting.
+5. [Road Sign Detection](https://github.com/mabdullah40/An-AI-based-System-of-Road-Sign-Detection) - Real-time detection of road signs using deep learning.
 
 ## 📫 How to reach me
-Want to chat? You can reach me at: [say hello](mailto:abdullahrashad3@gmail.com)
 
-Let's connect on LinkedIn: [Abdullah](https://www.linkedin.com/in/abdullah-ahmad-a143501a6/)
+Want to chat? You can reach me at: [email](mailto:Mabdullaha407@gmail.com)
 
-Or find me on Kaggle: [Iabahmad](https://www.kaggle.com/iabahmad19)
+Let's connect on LinkedIn: [Mohammad Abdullah](https://www.linkedin.com/in/mabdullah40)
+
+Or find me on GitHub: [mabdullah40](https://github.com/mabdullah40)
+
+## 🎓 Certifications & Courses
+
+- **Machine Learning** (Stanford University | Coursera)
+- **TensorFlow Developer Specialization** (DeepLearning.AI | Coursera)
+- **AI Programming with Python Nanodegree** (Udacity)
+- **Machine Learning Fundamentals Nanodegree** (Udacity)
 
 ## 😄 Pronouns
 He/His
 
 ## ⚡ Fun fact
-I'm a curious learner who's always looking for new things to learn. I follow blogs, videos, and courses to upskill myself. I believe in lifelong learning and growth!
+I believe in lifelong learning and growth – from winning data competitions with 8000+ participants to automating entire database anomaly workflows. Outside of tech, you’ll find me exploring the world of poetry and design.
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=iabahmad&show_icons=true&theme=radical)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabdullah40&show_icons=true&theme=radical)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabahmad&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah40&layout=compact)
