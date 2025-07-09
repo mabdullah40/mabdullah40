@@ -54,7 +54,7 @@ Or find me on GitHub: [mabdullah40](https://github.com/mabdullah40)
 
 ## 🎓 Certifications & Courses
 
-- **Machine Learning** (Stanford University | Coursera)
+- **Machine Learning Specialization** (Stanford University | Coursera)
 - **TensorFlow Developer Specialization** (DeepLearning.AI | Coursera)
 - **AI Programming with Python Nanodegree** (Udacity)
 - **Machine Learning Fundamentals Nanodegree** (Udacity)
