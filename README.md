@@ -1,128 +1,205 @@
 <div align="center">
 
-<h1>Mohammad Abdullah</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header" />
 
-<p><strong>AI Engineer &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Agentic Systems Builder</strong></p>
+# Mohammad Abdullah
+### AI Engineer · Data Scientist · Agentic Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+that+acts%2C+not+just+predicts;Agentic+AI+%7C+MLOps+%7C+Computer+Vision;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+Building+for+the+World" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdullah40)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Mabdullaha407@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mabdullah40)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/mabdullah40)
-
-</div>
-
----
-
-## About
-
-I'm an AI Engineer specializing in **agentic systems** — pipelines that don't just analyze data, but act on it autonomously. I've built calling agents handling **30,000+ calls/day**, computer vision systems improving data accuracy from **50% to 99%**, and lead pipelines reaching **40,000+ prospects/day**.
-
-Currently at **Open-Port**, where AI I've built has replaced manual operations, opened new markets, and cut costs by up to 90%.
-
----
-
-## Experience
-
-**Data Science Associate — Open-Port** &nbsp;`Feb 2025 – Present`
-
-- Built an AI-powered yard automation system using computer vision and real-time TMS webhooks — lifted data accuracy from **50% to 99%**, eliminating manual vehicle check-ins entirely
-- Developed an AI calling agent executing **30,000+ calls/day**, replacing a 10-person team with a single operator and reducing operational costs by **90%**
-- Delivered a WhatsApp-based AI insights platform with role-based access control, replacing ~15-minute Power BI load times with **instant mobile reporting** for executives
-- Engineered an automated lead outreach pipeline (Amazon SES) reaching **40,000+ leads/day**, saving 20+ hours/week and improving response rates by **40%**
-- Built a business pattern discovery agent that reduced operational incidents by **40%** and directly enabled entry into **3 new markets**
-- Designed Power BI Premium and Looker Studio dashboards accelerating executive decision-making by **30%**
-
-**Data Science Executive — Truck It In** &nbsp;`Jul 2024 – Feb 2025`
-
-- Deployed end-to-end supply chain ML models, reducing shipping costs by **15%** and improving on-time delivery by **20%**
-- Optimized ETL pipelines (Python, SQL), increasing data ingestion speed by **40%** for real-time analytics
-- Drove a **35% increase** in BI-driven initiatives through cross-functional predictive analytics
-- Improved fleet utilization by **12%** through weekly stakeholder insights
-
-**Software Engineering Intern — POF** &nbsp;`Jul 2023 – Aug 2023`
-
-- Identified database patterns and documented reengineered software for national-scale system upgrades
-
----
-
-## Projects
-
-**[Talking Data](https://pypi.org/project/talking-data/)** — AI Data Analysis Library &nbsp;`Python · LangChain · OpenAI · Gemini · Groq`
-> Open-source library for AI-driven data analysis — query datasets in plain English. **3,000+ downloads** on PyPI.
-
-**AI Unmanned Spraying Vehicle** &nbsp;`TensorFlow · YOLOv5`
-> Autonomous crop/weed disease detection with **90% accuracy** at **10 FPS**. Reduced crop damage by **75%**.
-
-**[Road Damage Detection System](https://github.com/mabdullah40/An-Ai-Based-System-of-Road-Damage-Detection)** &nbsp;`YOLOv8 · OpenCV · Streamlit`
-> Real-time detection of 7 road damage types at **20 FPS**. Auto-generates PDF inspection reports in under 5 minutes — **95% less** reporting effort.
-
-**[Road Sign Detection](https://github.com/mabdullah40/An-AI-based-System-of-Road-Sign-Detection)** &nbsp;`Deep Learning · Computer Vision`
-> Real-time road sign recognition using transfer learning for intelligent transport systems.
-
-**[Bike Sharing Demand Forecasting](https://github.com/mabdullah40/Predict-Bike-Sharing-Demand-with-AutoGloun)** &nbsp;`AutoGluon · Time Series`
-> Automated time-series forecasting with AutoGluon — minimal tuning, high accuracy.
-
-**[Dog Breed Classifier](https://github.com/mabdullah40/An-Ai-System-of-Dog-Breed-Classification-Using-Imagenet)** &nbsp;`Transfer Learning · ImageNet`
-> Fine-tuned ImageNet models for high-accuracy dog breed identification.
-
----
-
-## Skills
-
-**Languages** &nbsp; Python · SQL · MySQL · C++
-
-**AI / ML** &nbsp; Agentic AI · Machine Learning · Deep Learning · NLP · Computer Vision · MLOps
-
-**Frameworks** &nbsp; TensorFlow · PyTorch · LangChain · OpenAI Agents SDK · Pandas · PySpark · FastAPI · Flask · MLflow · Docker
-
-**Automation** &nbsp; n8n · Relevance · AgentKit · Morningside · Agentive · Amazon SES
-
-**BI & Dashboards** &nbsp; Power BI Premium · Looker Studio
-
-**DevOps** &nbsp; Git · GitHub · Docker · CI/CD
-
----
-
-## Education
-
-**B.Sc. Software Engineering** — University of Haripur, Pakistan &nbsp;`2020 – 2024` &nbsp; CGPA: 3.4 / 4.0
-
----
-
-## Certifications & Awards
-
-| | |
-|---|---|
-| Machine Learning Specialization | Stanford University / Coursera · 2023 |
-| TensorFlow Developer Specialization | DeepLearning.AI / Coursera · 2024 |
-| AI Programming with Python Nanodegree | Udacity · 2023 |
-| Machine Learning Fundamentals Nanodegree | Udacity · 2024 |
-| AWS AI & ML Scholarship | Amazon Web Services |
-| AWS AI with Python Scholarship | Amazon Web Services |
-| 🥇 Data-Danics Competition Winner | Codanics — 8,000+ participants |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mabdullah40&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah40&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+AI+that+acts%2C+not+just+predicts;30%2C000%2B+calls%2Fday+%7C+40%2C000%2B+leads%2Fday;Agentic+AI+%7C+MLOps+%7C+Computer+Vision;Open+to+collaborations+%26+consulting" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mabdullah40&theme=github-dark-blue&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdullah40)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mabdullaha407@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabdullah40)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/mabdullah40)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mabdullah40&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
 
----
+<br/>
+
+## 🧠 About Me
+
+```python
+class MohammadAbdullah:
+    role     = "AI Engineer & Data Scientist"
+    location = "Pakistan 🇵🇰"
+    focus    = "Agentic AI · MLOps · Computer Vision · NLP"
+
+    def current_work(self):
+        return """
+        At Open-Port, I build AI systems that eliminate entire manual workflows:
+        → Calling agent handling 30,000+ calls/day (replaced a 10-person team)
+        → Lead pipeline reaching 40,000+ prospects/day via Amazon SES
+        → Computer vision system that pushed data accuracy from 50% to 99%
+        → WhatsApp AI platform delivering instant exec insights (was 15-min Power BI waits)
+        """
+
+    def philosophy(self):
+        return "The best AI doesn't assist humans — it handles entire operations autonomously."
+```
+
+<br/>
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🏢 Data Science Associate
+**Open-Port** · *Feb 2025 – Present*
+
+| Metric | Result |
+|--------|--------|
+| Data accuracy | **50% → 99%** |
+| Calling agent throughput | **30K+ calls/day** |
+| Operational cost reduction | **−90%** |
+| Lead outreach volume | **40K+ leads/day** |
+| Response rate improvement | **+40%** |
+| Exec decision speed | **+30%** |
+| Incidents reduced | **−40%** |
+| New markets entered | **3** |
+
+</td>
+<td valign="top" width="50%">
+
+### 🏢 Data Science Executive
+**Truck It In** · *Jul 2024 – Feb 2025*
+
+| Metric | Result |
+|--------|--------|
+| Shipping cost reduction | **−15%** |
+| On-time delivery | **+20%** |
+| BI-driven initiatives | **+35%** |
+| ETL pipeline speed | **+40%** |
+| Fleet utilization | **+12%** |
+
+<br/>
+
+### 🏢 Software Engineering Intern
+**POF Software Reengineering** · *Jul – Aug 2023*
+
+Database pattern identification and documentation for national-scale system upgrades.
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
-<sub>Open to challenging projects, consulting, and collaboration &nbsp;·&nbsp; <a href="mailto:Mabdullaha407@gmail.com">mabdullaha407@gmail.com</a></sub>
+
+| Project | Stack | Highlight |
+|---|---|---|
+| 🤖 [**Talking Data**](https://pypi.org/project/talking-data/) — AI Data Analysis Library | Python · LangChain · OpenAI · Gemini | **3,000+ PyPI downloads** |
+| 🌾 **AI Unmanned Spraying Vehicle** | TensorFlow · YOLOv5 | **90% accuracy**, 75% crop damage reduction |
+| 🛣️ [**Road Damage Detection**](https://github.com/mabdullah40/An-Ai-Based-System-of-Road-Damage-Detection) | YOLOv8 · OpenCV · Streamlit | 20 FPS real-time, **95% less** reporting effort |
+| 🚦 [**Road Sign Detection**](https://github.com/mabdullah40/An-AI-based-System-of-Road-Sign-Detection) | Deep Learning · CV | Real-time transfer learning |
+| 🚲 [**Bike Sharing Forecasting**](https://github.com/mabdullah40/Predict-Bike-Sharing-Demand-with-AutoGloun) | AutoGluon · Time Series | Automated demand forecasting |
+| 🐕 [**Dog Breed Classifier**](https://github.com/mabdullah40/An-Ai-System-of-Dog-Breed-Classification-Using-Imagenet) | Transfer Learning · ImageNet | Fine-tuned breed identification |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / ML / Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**MLOps & Infrastructure**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**BI & Automation**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon%20SES-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🏆 Certifications & Awards
+
+<div align="center">
+
+| 🎓 Certification | 🏛️ Issuer | 📅 Year |
+|---|---|:---:|
+| Machine Learning Specialization | Stanford University / Coursera | 2023 |
+| TensorFlow Developer Specialization | DeepLearning.AI / Coursera | 2024 |
+| AI Programming with Python Nanodegree | Udacity | 2023 |
+| Machine Learning Fundamentals Nanodegree | Udacity | 2024 |
+| ☁️ AWS AI & ML Scholarship | Amazon Web Services | — |
+| ☁️ AWS AI with Python Scholarship | Amazon Web Services | — |
+| 🥇 Data-Danics Competition Winner | Codanics · 8,000+ participants | — |
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+**B.Sc. Software Engineering** — University of Haripur, Pakistan
+`Sep 2020 – Jun 2024` · CGPA: **3.4 / 4.0**
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mabdullah40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mabdullah40&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullah40&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
+
+*"The best systems don't just learn — they act, adapt, and eliminate the need for human intervention entirely."*
+
+**Open to collaborations, consulting, and challenging AI projects**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdullah40)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mabdullaha407@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" />
+
 </div>
