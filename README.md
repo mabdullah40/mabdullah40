@@ -125,17 +125,15 @@ High-accuracy breed identification using fine-tuned ImageNet pretrained models.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mabdullah40&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=24292f&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah40&layout=compact&hide_border=true&title_color=0A66C2&text_color=24292f&bg_color=ffffff&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=mabdullah40&hide_border=true&background=FFFFFF&stroke=E1E4E8&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mabdullah40&hide_border=true&background=ffffff&stroke=e1e4e8&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=mabdullah40&no-frame=true&no-bg=true&column=6&theme=flat&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies" />
 
 </div>
 
