@@ -10,6 +10,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mabdullah40.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdullah40)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Mabdullaha407@gmail.com)
 [![PyPI](https://img.shields.io/badge/PyPI_Library-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/mabdullah40)
@@ -42,6 +43,8 @@
 I'm an AI Engineer based in Pakistan 🇵🇰, specializing in **agentic AI systems** — the kind that don't wait for human input. I design, build, and ship end-to-end pipelines that automate operations, surface insights instantly, and scale without headcount.
 
 Currently at **Open-Port**, where I've replaced a 10-person calling team with a single AI agent, eliminated manual vehicle check-ins across an entire yard, and delivered a WhatsApp-based insight platform that cut executive reporting wait times from 15 minutes to instant.
+
+> 💼 View my full portfolio at **[mabdullah40.github.io/Portfolio](https://mabdullah40.github.io/Portfolio/)**
 
 ---
 
@@ -126,9 +129,13 @@ High-accuracy breed identification using fine-tuned ImageNet pretrained models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mabdullah40&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mabdullah40&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=24292f&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah40&layout=compact&theme=default&hide_border=true&title_color=0A66C2" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullah40&layout=compact&hide_border=true&title_color=0A66C2&text_color=24292f&bg_color=ffffff&langs_count=6" height="165" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mabdullah40&hide_border=true&background=ffffff&stroke=e1e4e8&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="GitHub Streak" />
 
 </div>
 
